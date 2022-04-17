@@ -2,7 +2,7 @@
 - 👀 I’m interested in engineering and computer science
 - 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me ...
+- 📫 How to reach me "JingtingL@gmail.com"
 
 <!---
 JingtingL/JingtingL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
