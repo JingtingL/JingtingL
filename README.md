@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JingtingL
-- 👀 I’m interested in engineering and computer science
-- 🌱 I’m currently learning python and java
+- 👋 **Hi, I’m @JingtingL**
+- 👀 I am an undergraduate majoring in Computer Engineering in UCSD
+- 🌱 I know Java, Python, Javascript, and C++
 - 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me ...
+- 📫 Email: jingtingliu123@gmail.com 
 
 <!---
 JingtingL/JingtingL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
