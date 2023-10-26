@@ -1,6 +1,6 @@
 - 👋 **Hi, I’m @JingtingL**
 - 👀 I am an undergraduate majoring in Computer Engineering in UCSD
-- 🌱 I know Java, Python, Javascript, and C++
+- 🌱 I know Java, Python, Javascript, C, and C++
 - 💞️ I’m looking to collaborate on stuff
 - 📫 Email: jingtingliu123@gmail.com 
 
